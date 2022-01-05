@@ -7,15 +7,13 @@ Components del grup:
 
 Arxius inclosos en aquest repositori:
 
-  Codi del nostre scrapper en dos formats...
+    PRA2FraireiManzanares.Rmd,
+    que és el propi de l'editor RStudio des del qual hem treballat i que conté el codi del treball
     
-    PRAC1_code.ipynb,
-    que és el propi de l'editor Jupyter Notebooks des del qual hem treballat i que encara desa el darrer output
+    PRA2FraireiManzanares.pdf,
+    document de text i imatge que conté les respostes del treball,
+    juntament amb el codi i les gràfiques generades
     
-    PRAC1_code.py,
-    que és el propi de qualsevol arxiu interpretable per Python i que només conté el codi
-    
-  Document en format PDF amb les respostes de la Pràctica 1. 
+    student-mat.csv,
+    que conté el conjunt de dades que hem tractat i analitzat en format de valors separats per comes.
   
-
-DOI del dataset al repositori Zenodo on s'ha publicat on s'han publicat les dades resultants: 10.5281/zenodo.5654913
